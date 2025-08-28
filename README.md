@@ -1,8 +1,8 @@
 # libaleph
 
 > A library of affordances for the agentic web.  
-> Homage to `libwww`, re-imagined for a world where agents are the primary clients.  
 
+Aleph Stack is the philosophy. libaleph is the first implementation. Just as the World Wide Web was the idea, and libwww was its library, Aleph Stack points to the paradigm, while libaleph provides the code.
 ---
 
 ## Aleph-Stack Manifesto: *Design Dissolving in Agency*  
