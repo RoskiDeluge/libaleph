@@ -1,7 +1,7 @@
 # libaleph
 ## A library of affordances for the agentic web.  
 
-> Aleph Stack is the philosophy: a re-presentation of the Web as an affordance-first, agent-native substrate. It is a call to move beyond the page as the atomic unit, toward protocols, contracts, and intents as the true primitives of digital interaction.
+> Aleph Stack begins from presentations, not representations: affordances that are immediately active rather than symbolic stand-ins. Text becomes the runtime itself, where intents and schemas are live contracts agents can act on directly. UI and hypermedia remain, but only as derivative projections—print-on-demand views for humans, not the substrate of the Web.
 
 > libaleph is the first implementation: a reference library of manifests, schemas, capability tokens, and event protocols that make Aleph Stack concrete. Where Aleph Stack is the idea, libaleph is the code—just as the World Wide Web was the vision, and libwww its first embodiment.
 ---
