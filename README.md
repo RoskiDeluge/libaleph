@@ -16,3 +16,18 @@ npm run dev:server
 curl http://localhost:3000/.well-known/agent
 ```
 
+## Philosophy of Action: Presentation Before Representation
+
+Traditional web systems are built on representations: pages, interfaces, and metaphors that stand in for deeper actions. Buttons, forms, and layouts are symbolic—they point toward a possibility, but they are not the possibility itself.
+
+Aleph Stack begins instead from presentations: affordances that are immediately active. An intent object, a schema, or a manifest is not a description waiting to be interpreted; it is a live contract, callable by an agent or projected into a view for a human.
+
+This shift implies a different philosophy of action:
+
+Do first, narrate later. Actions are executable primitives; interfaces are optional interpretations.
+
+Affordances are canonical. They present themselves directly in text-as-runtime.
+
+Representations are derivatives. UI and hypermedia become “print-on-demand” layers for humans, not the substrate itself.
+
+Just as living bodies act before they symbolize or narrate, Aleph recovers presentation as the foundation of interaction. Representation remains valuable, but only as a secondary projection of a presentative core.
