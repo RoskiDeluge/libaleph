@@ -1,4 +1,4 @@
-## Aleph-Stack Manifesto: *Design Dissolving in Agency*  
+## Aleph-Stack: *Design Dissolving in Agency*  
 
 1. **Affordances, not interfaces.** What matters is what can be done—not how it looks when done.  
 2. **Quiet infrastructure.** Like air or gravity, the stack should be felt only in its absence.  
